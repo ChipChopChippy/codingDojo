@@ -1,0 +1,2 @@
+# codingDojo
+Simple Kata solutions
